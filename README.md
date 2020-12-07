@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java, HTML, CSS and Javascript (+ frameworks).
+- 🌱 I’m currently learning Java, HTML, CSS and Javascript (+ frameworks) trough school while C# and Python at home.
 - ⚡ Fun fact: Two years ago i hadn't even seen one single line of code.
 
 <!--
