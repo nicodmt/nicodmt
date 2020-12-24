@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java, HTML, CSS and Javascript (+ frameworks) trough school while C# and Python at home.
+- 🌱 I’m currently learning Java, HTML, CSS and Javascript (+ frameworks) trough school, C# and Python at home and also attending CS50 at Harvard.
 - ⚡ Fun fact: Two years ago i hadn't even seen one single line of code.
 - 📫 How to reach me: https://nicodmt.github.io/
 
